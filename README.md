@@ -12,7 +12,7 @@ Bubble maps for NEAR tokens. Maps the top 100 holders of a token, links wallets 
 </td>
 </tr>
 <tr>
-<td><a href="https://github.com/peromero-creator/kedo-showcase"><img src="https://raw.githubusercontent.com/peromero-creator/kedo-showcase/main/assets/map.jpg" alt="kedo"></a></td>
+<td align="center"><a href="https://github.com/peromero-creator/kedo-showcase"><img src="https://raw.githubusercontent.com/peromero-creator/kedo-showcase/main/assets/map.jpg" alt="kedo" width="180"></a></td>
 <td>
 <b><a href="https://github.com/peromero-creator/kedo-showcase">kedo</a></b> · <a href="https://apps.apple.com/tr/app/kedo-street-animal-map/id6789555277">App Store</a><br>
 A kinder map for street animals. Neighbors map feeding stations, verify them on site, log feedings and find homes for strays. Live on the App Store, with guarded locations and automated content moderation.<br>
