@@ -7,7 +7,7 @@ Products I designed and built end to end in 2026, from smart contracts and data 
 <td width="42%"><a href="https://github.com/peromero-creator/bubblenear-showcase"><img src="https://raw.githubusercontent.com/peromero-creator/bubblenear-showcase/main/assets/map-nomo.png" alt="BubbleNear"></a></td>
 <td>
 <b><a href="https://github.com/peromero-creator/bubblenear-showcase">BubbleNear</a></b> · <a href="https://bubblenear.co">bubblenear.co</a><br>
-Bubble maps for NEAR tokens. Maps the top 100 holders of a token, links wallets that are really one owner from on chain evidence (transfers, funding source, shared signing keys), clusters them and scores rug risk.<br>
+Bubble maps for NEAR tokens. Maps the top 100 holders of a token, links wallets that are really one owner from on chain evidence (transfers, funding source, shared signing keys), clusters them and scores rug risk. Launched its own token on the Nearly launchpad and ran its X channel.<br>
 <sub>Next.js · TypeScript · d3-force · FastNEAR · Docker</sub>
 </td>
 </tr>
